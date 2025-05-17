@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://nihalkhanghauri.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-nihal--khan.vercel.app-5DADE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Nihal Khan Ghauri-5DADE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
