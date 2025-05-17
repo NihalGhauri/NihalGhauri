@@ -56,7 +56,7 @@
 ## 🌐 Portfolio
 
 <p align="center">
-  <a href="https://nihal-khan.vercel.app/" target="_blank">
+  <a href="https://nihalkhanghauri.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-nihal--khan.vercel.app-5DADE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
