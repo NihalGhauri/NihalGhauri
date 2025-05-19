@@ -30,17 +30,6 @@
 
 ---
 
-## ⚡ Specializations
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Agentic_AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/-Cloud_Engineering-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Engineering" />
-  <img src="https://img.shields.io/badge/-Scalable_Solutions-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Scalable Solutions" />
-  <img src="https://img.shields.io/badge/-Sanity_CMS-FF2D20?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity CMS" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
